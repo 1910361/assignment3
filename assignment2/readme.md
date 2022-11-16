@@ -7,14 +7,20 @@ In this folder you should add **all** artifacts developed for assignment 2 of th
 Following there are examples of proposed sections for this part of the report (team part).
 
 ## Introduction
+The project will be developed in DSL language using JetBrains MPS software. 
+It will be the description of a language to describe a state machine, with states, transitions and events
 
 ## Problem
+The problem consists of creating a dimmer for a lamp, where we have the lamp off and 3 levels of brightness emitted by the lamp.
 
 ## Requirements for the Assignment
+Using the JetBrains MPS IDE
 
 ## Solution Design
+A state machine passing through 4 states and having as output the 4 levels of the lamp, from off to the maximum brightness level
 
 ## Solution Implementation
+A state machine with 4 states and adding events for transitions.
 
 ## Solution Alternative(s)
 
